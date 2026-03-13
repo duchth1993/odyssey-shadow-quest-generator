@@ -349,7 +349,7 @@ export default function ShadowQuestApp() {
             PoC for Endless Monthly Contribution Program | Privacy via E2EE + DID | #EndlessDev
           </p>
           <a
-            href="https://github.com"
+            href="https://github.com/duchth1993/odyssey-shadow-quest-generator"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center gap-2 text-sm text-accent hover:text-accent/80 transition-colors"
